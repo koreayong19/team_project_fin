@@ -1,0 +1,20 @@
+{
+    "os": "Linux-3.10.0-1160.2.2.el7.x86_64-x86_64-with-glibc2.10",
+    "python": "3.8.5",
+    "heartbeatAt": "2022-02-11T02:51:05.590467",
+    "startedAt": "2022-02-11T02:51:04.485540",
+    "docker": null,
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "cpu_count": 104,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-eb3c638b-6fad-4b81-bf09-f4b4b43862bb.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "b8b4777a0188",
+    "username": "root",
+    "executable": "/opt/conda/bin/python"
+}
